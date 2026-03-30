@@ -1,7 +1,8 @@
-pandas
-numpy
-streamlit==1.35.0
-matplotlib
-seaborn
-scipy
+pandas==2.2.2
+numpy==1.26.4
+streamlit==1.38.0
+matplotlib==3.9.0
+seaborn==0.13.2
+scipy==1.13.0
 altair==4.2.2
+pillow==10.4.0
